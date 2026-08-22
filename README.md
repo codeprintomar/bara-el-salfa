@@ -4,6 +4,8 @@
 
 ## 🎮 About
 
+Link : https://bara-el-salfa.wasmer.app/
+
 **برا السالفة** is a web game created as one of the first published projects by **CodePrint**.
 
 The project started as a simple idea and was later updated to improve the experience and presentation.
